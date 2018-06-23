@@ -1,5 +1,5 @@
 # Text-Statistics-Calculation
-My first semseter assignment in my C programming class
+My first semester assignment in my C programming class
 
 Assignment: 
 Create a C program that processes .c files, add text and print some statistics to the console. The program must include the following functions:
